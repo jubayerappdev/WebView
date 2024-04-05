@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.webView.loadUrl("https://www.daraz.com.bd/")
         binding.webView.settings.javaScriptEnabled = true
-//        ll
+
 
 
 
